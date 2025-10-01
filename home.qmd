@@ -1,0 +1,7 @@
+---
+title: "Zaynab_idea"
+---
+
+This is a Quarto website.
+
+To learn more about this website, visit our about page by clicking [here](about.qmd)

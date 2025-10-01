@@ -1,0 +1,7 @@
+---
+title: "About Zaynab_idea"
+---
+
+We are bringing an awesome package to you soon. Watch out!
+
+Go back [home](home.qmd)
